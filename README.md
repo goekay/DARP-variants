@@ -1,6 +1,7 @@
 # Dial-a-Ride Problem (DARP) Variants
 
 The study in [DARP-variants.pdf](DARP-variants.pdf) analyzes DARP publications since 1980 with respect to various feature categories.
+It was the ground work for our paper, [A High-level Category Survey of Dial-a-Ride Problems](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0007801605940600).
 
 ## Feature Categories
 
